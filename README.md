@@ -1,15 +1,6 @@
 # LakeTwin-AI: Big Data Analytics and Machine Learning for Urban Lake Monitoring in Bengaluru
 
-\<p align="center">
-&#x20; \<strong>LAKE 2026 · 15th Biennial Lake Symposium\</strong>\<br>
-&#x20; 18–20 November 2026 · Chanakya University, Bengaluru
-\</p>
 
-\<p align="center">   \<em>Conservation of Wetlands, Traditional Knowledge with Innovative Nature-Based Technologies for Viksit Bharat\</em> \</p>
-
-\<p align="center">   \<strong>Research Project | Satellite Remote Sensing | Geospatial Analytics | Machine Learning\</strong> \</p>
-
----
 
 ## 1. Project Overview
 
@@ -393,9 +384,3 @@ Chanakya University, Bengaluru, India
 
 Research presentation: LAKE 2026 – 15th Biennial Lake Symposium
 
----
-
-\<p align="center">
-&#x20; \<strong>LakeTwin-AI\</strong>\<br>
-&#x20; Satellite-based seasonal monitoring of urban lake environments.
-\</p>
